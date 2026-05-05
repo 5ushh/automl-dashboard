@@ -36,7 +36,7 @@ st.markdown("""
 
 # ── Header ────────────────────────────────────────────────────────────────────
 st.markdown('<p class="main-title">🤖 AutoML Dashboard</p>', unsafe_allow_html=True)
-st.markdown('<p class="sub-title">Automated Machine Learning for Everyone — No Code Required</p>', unsafe_allow_html=True)
+st.markdown('<p class="sub-title">Automated Machine Learning for Everyone. No Code Required</p>', unsafe_allow_html=True)
 st.markdown('<div class="section-divider"></div>', unsafe_allow_html=True)
 
 # ── Sidebar ───────────────────────────────────────────────────────────────────
