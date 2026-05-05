@@ -36,7 +36,7 @@ streamlit run app.py
 
 ## Deployment
 
-Deployed on Streamlit Community Cloud at: https://share.streamlit.io/sv3005/automl-dashboard
+Deployed on Streamlit Community Cloud at: [https://share.streamlit.io/sv3005/automl-dashboard](https://automldashboard.streamlit.app)
 
 ## Tech Stack
 
